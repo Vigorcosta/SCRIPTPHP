@@ -1,5 +1,5 @@
 # PHP: Como gerar um script de conexão mysqli?
-Você pode acessar bancos de dados MySQL diretamente por scripts PHP.
+Você pode acessar bancos de dados MySQL diretamente por scripts PHP com XML.
 
 Isso permite ler e gravar dados no seu banco de dados diretamente pelo seu site.
 
